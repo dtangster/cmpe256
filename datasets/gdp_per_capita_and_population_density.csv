@@ -1,0 +1,265 @@
+,Country Name,Country Code,GDP per capita (current US$),Population density
+0,Aruba,ABW,25025,573
+1,Afghanistan,AFG,637,49
+2,Angola,AGO,5254,20
+3,Albania,ALB,4413,105
+4,Andorra,AND,40626,171
+5,Arab World,ARB,7552,33
+6,United Arab Emirates,ARE,42412,129
+7,Argentina,ARG,13080,15
+8,Armenia,ARM,3838,101
+9,American Samoa,ASM,11505,278
+10,Antigua and Barbuda,ATG,12909,207
+11,Australia,AUS,68150,3
+12,Austria,AUT,50716,102
+13,Azerbaijan,AZE,7875,113
+14,Burundi,BDI,256,371
+15,Belgium,BEL,46744,368
+16,Benin,BEN,915,88
+17,Burkina Faso,BFA,699,62
+18,Bangladesh,BGD,981,1173
+19,Bulgaria,BGR,7646,66
+20,Bahrain,BHR,24744,1707
+21,"Bahamas, The",BHS,28768,36
+22,Bosnia and Herzegovina,BIH,5131,69
+23,Belarus,BLR,7978,46
+24,Belize,BLZ,4568,15
+25,Bermuda,BMU,85748,1203
+26,Bolivia,BOL,2908,9
+27,Brazil,BRA,12300,24
+28,Barbados,BRB,16452,661
+29,Brunei Darussalam,BRN,44740,76
+30,Bhutan,BTN,2472,18
+31,Botswana,BWA,7224,3
+32,Central African Republic,CAF,380,7
+33,Canada,CAN,52504,3
+34,Central Europe and the Baltics,CEB,13717,93
+35,Switzerland,CHE,85112,204
+36,Channel Islands,CHI,0,823
+37,Chile,CHL,15842,23
+38,China,CHN,7050,144
+39,Cote d'Ivoire,CIV,1415,69
+40,Cameroon,CMR,1465,46
+41,"Congo, Dem. Rep.",COD,457,31
+42,"Congo, Rep.",COG,3047,13
+43,Colombia,COL,8212,41
+44,Comoros,COM,1504,398
+45,Cabo Verde,CPV,3615,126
+46,Costa Rica,CRI,10490,92
+47,Caribbean small states,CSS,10114,17
+48,Cuba,CUB,6837,108
+49,Curacao,CUW,20462,346
+50,Cayman Islands,CYM,73515,249
+51,Cyprus,CYP,27729,123
+52,Czech Republic,CZE,19916,136
+53,Germany,DEU,46285,231
+54,Djibouti,DJI,2312,38
+55,Dominica,DMA,7016,94
+56,Denmark,DNK,61191,133
+57,Dominican Republic,DOM,6238,207
+58,Algeria,DZA,5499,16
+59,East Asia & Pacific (excluding high income),EAP,5887,126
+60,Early-demographic dividend,EAR,3371,91
+61,East Asia & Pacific,EAS,9433,92
+62,Europe & Central Asia (excluding high income),ECA,10664,17
+63,Europe & Central Asia,ECS,26054,32
+64,Ecuador,ECU,6056,63
+65,"Egypt, Arab Rep.",EGY,3264,88
+66,Euro area,EMU,39102,125
+67,Eritrea,ERI,0,0
+68,Spain,ESP,29059,93
+69,Estonia,EST,19174,30
+70,Ethiopia,ETH,499,95
+71,European Union,EUU,34559,104
+72,Fragile and conflict affected situations,FCS,1858,35
+73,Finland,FIN,49878,17
+74,Fiji,FJI,4840,47
+75,France,FRA,42592,120
+76,Faroe Islands,FRO,54853,34
+77,"Micronesia, Fed. Sts.",FSM,2994,151
+78,Gabon,GAB,9680,7
+79,United Kingdom,GBR,43444,265
+80,Georgia,GEO,4623,65
+81,Ghana,GHA,2378,116
+82,Gibraltar,GIB,0,3369
+83,Guinea,GIN,769,44
+84,"Gambia, The",GMB,700,194
+85,Guinea-Bissau,GNB,634,58
+86,Equatorial Guinea,GNQ,20384,38
+87,Greece,GRC,21874,85
+88,Grenada,GRD,7789,318
+89,Greenland,GRL,47535,0
+90,Guatemala,GTM,3452,145
+91,Guam,GUM,33265,297
+92,Guyana,GUY,3934,3
+93,High income,HIC,42143,33
+94,"Hong Kong SAR, China",HKG,38403,6837
+95,Honduras,HND,2102,78
+96,Heavily indebted poor countries (HIPC),HPC,941,39
+97,Croatia,HRV,13642,76
+98,Haiti,HTI,815,377
+99,Hungary,HUN,13687,109
+100,IBRD only,IBD,5825,65
+101,IDA & IBRD total,IBT,4736,64
+102,IDA total,IDA,1361,61
+103,IDA blend,IDB,2004,83
+104,Indonesia,IDN,3623,138
+105,IDA only,IDX,1022,53
+106,Isle of Man,IMN,80431,147
+107,India,IND,1449,430
+108,Not classified,INX,0,0
+109,Ireland,IRL,51590,67
+110,"Iran, Islamic Rep.",IRN,6111,46
+111,Iraq,IRQ,7076,76
+112,Iceland,ISL,49522,3
+113,Israel,ISR,36309,372
+114,Italy,ITA,35549,204
+115,Jamaica,JAM,4989,263
+116,Jordan,JOR,3998,95
+117,Japan,JPN,40454,349
+118,Kazakhstan,KAZ,13890,6
+119,Kenya,KEN,1210,79
+120,Kyrgyz Republic,KGZ,1282,29
+121,Cambodia,KHM,1013,85
+122,Kiribati,KIR,1715,133
+123,St. Kitts and Nevis,KNA,16685,193
+124,"Korea, Rep.",KOR,25890,517
+125,Kuwait,KWT,49388,197
+126,Latin America & Caribbean (excluding high income),LAC,9927,30
+127,Lao PDR,LAO,1825,28
+128,Lebanon,LBN,7923,578
+129,Liberia,LBR,721,44
+130,Libya,LBY,10363,3
+131,St. Lucia,LCA,8358,291
+132,Latin America & Caribbean,LCN,10317,30
+133,Least developed countries: UN classification,LDC,1003,50
+134,Low income,LIC,799,45
+135,Liechtenstein,LIE,173058,230
+136,Sri Lanka,LKA,3610,328
+137,Lower middle income,LMC,1966,139
+138,Low & middle income,LMY,4611,65
+139,Lesotho,LSO,1249,66
+140,Late-demographic dividend,LTE,8547,49
+141,Lithuania,LTU,15705,47
+142,Luxembourg,LUX,113625,223
+143,Latvia,LVA,15043,32
+144,"Macao SAR, China",MAC,89287,19055
+145,St. Martin (French part),MAF,0,670
+146,Morocco,MAR,3121,75
+147,Monaco,MCO,177593,18450
+148,Moldova,MDA,2668,123
+149,Madagascar,MDG,541,39
+150,Maldives,MDV,7928,1385
+151,Middle East & North Africa,MEA,8668,36
+152,Mexico,MEX,10725,61
+153,Marshall Islands,MHL,3296,316
+154,Middle income,MIC,5053,68
+155,North Macedonia,MKD,5210,82
+156,Mali,MLI,805,13
+157,Malta,MLT,23838,1331
+158,Myanmar,MMR,1162,79
+159,Middle East & North Africa (excluding high income),MNA,4624,40
+160,Montenegro,MNE,7186,46
+161,Mongolia,MNG,4366,1
+162,Northern Mariana Islands,MNP,14274,119
+163,Mozambique,MOZ,664,32
+164,Mauritania,MRT,1477,3
+165,Mauritius,MUS,9637,620
+166,Malawi,MWI,348,168
+167,Malaysia,MYS,10970,89
+168,North America,NAC,53052,19
+169,Namibia,NAM,5694,2
+170,New Caledonia,NCL,0,14
+171,Niger,NER,414,14
+172,Nigeria,NGA,2998,188
+173,Nicaragua,NIC,1811,50
+174,Netherlands,NLD,52184,498
+175,Norway,NOR,102913,13
+176,Nepal,NPL,715,187
+177,Nauru,NRU,10039,541
+178,New Zealand,NZL,42949,16
+179,OECD members,OED,38463,36
+180,Oman,OMN,20926,12
+181,Other small states,OSS,15713,13
+182,Pakistan,PAK,1208,248
+183,Panama,PAN,11889,51
+184,Peru,PER,6756,23
+185,Philippines,PHL,2749,331
+186,Palau,PLW,12688,38
+187,Papua New Guinea,PNG,2729,17
+188,Poland,POL,13781,124
+189,Pre-demographic dividend,PRE,1799,44
+190,Puerto Rico,PRI,28513,405
+191,"Korea, Dem. People’s Rep.",PRK,0,207
+192,Portugal,PRT,21647,114
+193,Paraguay,PRY,5926,16
+194,West Bank and Gaza,PSE,3060,677
+195,Pacific island small states,PSS,3659,35
+196,Post-demographic dividend,PST,42319,34
+197,French Polynesia,PYF,0,73
+198,Qatar,QAT,85050,201
+199,Romania,ROU,9555,86
+200,Russian Federation,RUS,16007,8
+201,Rwanda,RWA,704,438
+202,South Asia,SAS,1381,357
+203,Saudi Arabia,SAU,24844,13
+204,Sudan,SDN,1943,0
+205,Senegal,SEN,1375,71
+206,Singapore,SGP,56967,7636
+207,Solomon Islands,SLB,1977,20
+208,Sierra Leone,SLE,716,95
+209,El Salvador,SLV,3509,302
+210,San Marino,SMR,57302,542
+211,Somalia,SOM,297,20
+212,Serbia,SRB,6755,81
+213,Sub-Saharan Africa (excluding high income),SSA,1852,44
+214,South Sudan,SSD,1779,0
+215,Sub-Saharan Africa,SSF,1853,44
+216,Small states,SST,13896,14
+217,Sao Tome and Principe,STP,1577,200
+218,Suriname,SUR,9402,3
+219,Slovak Republic,SVK,18236,112
+220,Slovenia,SVN,23496,102
+221,Sweden,SWE,60897,23
+222,Eswatini,SWZ,4230,63
+223,Sint Maarten (Dutch part),SXM,0,1076
+224,Seychelles,SYC,14765,195
+225,Syrian Arab Republic,SYR,0,106
+226,Turks and Caicos Islands,TCA,21328,36
+227,Chad,TCD,979,10
+228,East Asia & Pacific (IDA & IBRD countries),TEA,5950,125
+229,Europe & Central Asia (IDA & IBRD countries),TEC,10957,19
+230,Togo,TGO,621,127
+231,Thailand,THA,6168,133
+232,Tajikistan,TJK,1048,57
+233,Turkmenistan,TKM,7304,11
+234,Latin America & the Caribbean (IDA & IBRD countries),TLA,10238,29
+235,Timor-Leste,TLS,4888,77
+236,Middle East & North Africa (IDA & IBRD countries),TMN,4642,40
+237,Tonga,TON,4428,141
+238,South Asia (IDA & IBRD),TSA,1381,357
+239,Sub-Saharan Africa (IDA & IBRD countries),TSS,1853,44
+240,Trinidad and Tobago,TTO,20143,263
+241,Tunisia,TUN,4222,70
+242,Turkey,TUR,12519,98
+243,Tuvalu,TUV,3454,361
+244,Tanzania,TZA,970,54
+245,Uganda,UGA,689,178
+246,Ukraine,UKR,4029,78
+247,Upper middle income,UMC,8449,43
+248,Uruguay,URY,16973,19
+249,United States,USA,53106,34
+250,Uzbekistan,UZB,2281,71
+251,St. Vincent and the Grenadines,VCT,6639,278
+252,"Venezuela, RB",VEN,12456,33
+253,British Virgin Islands,VGB,0,192
+254,Virgin Islands (U.S.),VIR,34819,308
+255,Vietnam,VNM,1886,292
+256,Vanuatu,VUT,3124,21
+257,World,WLD,10770,56
+258,Samoa,WSM,4037,67
+259,Kosovo,XKX,3876,167
+260,"Yemen, Rep.",YEM,1607,47
+261,South Africa,ZAF,6832,44
+262,Zambia,ZMB,1878,20
+263,Zimbabwe,ZWE,1430,34
